@@ -1,0 +1,10 @@
+SAUCEDEMO_USERNAME_TEXT_FIELD=user-name
+SAUCEDEMO_PASSWORD_TEXT_FIELD=password
+SAUCEDEMO_LOGIN-BUTTON=login-button
+
+#mobile locators
+APP_HOME_SCREEN_SIDE_MENU=Open the main menu
+APP_NAVIGATE_BACK_BTN=Navigate up
+APP_HOME_PLAY_LIST_TITLE=com.instantappsample.uamp:id/title
+APP_SONG_PAUSE_BUTTON=com.instantappsample.uamp:id/play_pause
+	

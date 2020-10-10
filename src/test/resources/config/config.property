@@ -1,0 +1,6 @@
+browser_name=chrome
+URL=https://www.saucedemo.com/
+platform_name=Android
+platform_version=10.0
+device_name=Android
+device_URL=http://127.0.0.1:4723/wd/hub

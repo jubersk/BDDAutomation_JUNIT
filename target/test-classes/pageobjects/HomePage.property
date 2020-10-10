@@ -1,0 +1,3 @@
+SAUCEDEMO_HOME_PAGE_PRODUCTS_TEXT=//div[@class='product_label' and contains(text(),'Products')]
+SAUCEDEMO_ADD_TO_CART_BUTTON=//div[@class='inventory_item_name' and contains(text(),'ProductName')]//ancestor::div[@class='inventory_item']//child::button[contains(text(),'ADD TO CART')]
+SAUCEDEMO_CART_BUTTON=shopping_cart_container
